@@ -140,6 +140,7 @@ header .fa-bars {
     color: #999; 
     padding: 1rem 0;
     line-height: 1.5;
+    text-transform: none;
 }
 
 /*about section*/
@@ -193,6 +194,7 @@ header .fa-bars {
     padding: .5rem 0;
     padding-top: 1rem;
     line-height: 1.5;
+    text-transform: none;
 }
 
 /*icons section*/
