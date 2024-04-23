@@ -1,1 +1,1 @@
-flower shop website using only HTML and CSS
+responsive flower shop website using only HTML and CSS
